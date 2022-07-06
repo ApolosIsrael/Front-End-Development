@@ -1,0 +1,23 @@
+.menu {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  height: auto;
+}
+li span {
+  font-weight: normal;
+}
+.Cheese {
+  list-style: lower-roman;
+}
+
+.menu {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+  background-color: skyblue;
+}

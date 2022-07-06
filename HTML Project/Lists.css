@@ -1,0 +1,22 @@
+h1 {
+  color: red;
+}
+
+ul {
+  list-style: circle;
+}
+
+ol {
+  list-style: lower-alpha;
+  list-style: upper-alpha;
+}
+
+.red {
+  color: red;
+}
+.yellow {
+  color: yellow;
+}
+.green {
+  color: green;
+}
